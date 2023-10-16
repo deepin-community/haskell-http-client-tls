@@ -1,8 +1,12 @@
-haskell-http-client-tls (0.3.5.3-deepin1) unstable; urgency=medium
+haskell-http-client-tls (0.3.6.1-1) unstable; urgency=medium
 
-  * Rebuild
+  [ Ilias Tsitsimpis ]
+  * Declare compliance with Debian policy 4.6.1
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:39:14 +0800
+  [ Clint Adams ]
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Fri, 29 Jul 2022 13:11:06 -0400
 
 haskell-http-client-tls (0.3.5.3-4) unstable; urgency=medium
 
